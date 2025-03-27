@@ -24,8 +24,8 @@ pip install -r requirements.txt
 
 ## 🔑 环境变量配置
 项目默认使用：
-	•	DeepSeek API Key
-	•	HuggingFace Hub API Token
+- DeepSeek API Key
+- HuggingFace Hub API Token
 
 你可以将它们直接写入代码
 ```bash
